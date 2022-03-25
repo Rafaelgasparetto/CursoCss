@@ -1,0 +1,30 @@
+RGB
+
+É abreviatura para:
+
+r = red (vermelho)
+
+g = green (verde)
+
+b = blue (azul)
+
+O valor CSS expresso pela função rgb(red, green, blue) indica uma cor obtida com a mistura de uma quantidade vermelho, verde e azul.
+
+São duas maneiras de se definir a quantidade de cada uma das três cores:
+
+Uma faixa de números de 0 (zero) até 255
+Uma faixa de porcentagens de 0% até 100%
+Exemplo:
+
+rgb(145, 230, 50)
+
+rgb(20%, 0%, 70%)
+
+
+RGBA
+
+É uma extensão da função rgb(), sendo o "a" (alpha) destinado a definir a opacidade em uma faixa de valores decimais de 0 até 1, ou seja, é possivel usar números quebrados: 0.1, 0.2, 0.3, etc.
+
+Exemplo:
+
+rgba(145, 230, 50, 0.5)

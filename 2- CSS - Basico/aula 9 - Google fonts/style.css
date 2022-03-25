@@ -1,0 +1,33 @@
+body {
+    background: #ada8a8;
+    font-family: 'Raleway', sans-serif;
+    color: #c5c2c2;
+}
+
+
+
+.foto-principal{
+
+    width: 200px;
+    border: 2px solid #ffffff; /*shorthand*/
+    border-radius: 40% 10% 40% 10%; /* para fazer um designer na borda */
+    margin: 30px 30px 30px 30px;
+    
+    box-shadow: 0px 0px 100px black
+    
+
+}
+
+h1{
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-size: 40px;
+}
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(133 112 112);
+    font-weight: 100;
+    letter-spacing: -1px;
+}

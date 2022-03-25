@@ -1,0 +1,24 @@
+body {
+    background: #ada8a8;
+}
+
+p {
+    color: #c5c2c2;
+}
+
+.foto-principal{
+
+    width: 200px;
+    border: 2px solid #ffffff; /*shorthand*/
+    border-radius: 40% 10% 40% 10%; /* para fazer um designer na borda */
+
+    /*
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    */
+    margin: 30px 30px 30px 30px;
+    
+
+
+}
